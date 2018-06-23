@@ -6,3 +6,10 @@ To use SASS, run in project root:
 ```bash
 sass --watch css/
 ```
+
+## Licence
+The `LICENCE` file applies to all files except for:
+
+```
+assets/img/not-mit/*
+```
